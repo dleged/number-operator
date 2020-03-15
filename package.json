@@ -1,0 +1,25 @@
+{
+  "name": "math-operator",
+  "version": "1.0.0",
+  "description": "Perform correct +-* / operation operations on the front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dleged/number-operator.git"
+  },
+  "keywords": [
+    "number",
+    "string",
+    "math",
+    "IEEE754"
+  ],
+  "author": "yimu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dleged/number-operator/issues"
+  },
+  "homepage": "https://github.com/dleged/number-operator#readme"
+}
